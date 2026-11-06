@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: api
-          image: ghcr.io/gerardoardon/devops-lab21:sha-1cde00330d48f40275a4abd4de0096a67c7a965c1eedd7c8d43727dc9ddc1c06
+          image: ghcr.io/gerardoardon/devops-lab21:sha-ad06279a3b4575ae3ae4a3c639efebfd1014bf6d
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
